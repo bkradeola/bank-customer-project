@@ -1,4 +1,5 @@
 # bank-customer-project
+![image](https://user-images.githubusercontent.com/128179012/229878719-fbff9415-a89e-47b5-be73-2b925ae57a6b.png)
 
 ## Executive Summary
 In line with the constant desire by P6 bank to improve its customer base and patronage. A dataset consisting of 4014 rows and 9 columns has been gathered from the database to evaluate the performance of customers base on specified criterial.
